@@ -1,0 +1,5 @@
+-8587484716622876707|59.912353|10.746811|Domkirken|Hull i gata|
+-8587483816622846660|59.911654|10.746811|Karl Johans gate, ved domkirken|Ødelagt gatelykt|
+-8587485508622821653|59.913392|10.770081|Smedgata, Enerhaugen|Behøver snømåking!|Kristoffer
+-8587484644622801623|59.913392|10.770081|Smedgata, Enerhaugen|Hjelp, vi snør inne. Kom og måk!|Kristoffer
+-8587483780622781602|59.913392|10.770081|Smedgata, Enerhaugen|Nå bor vi i en stor snøhule her oppe. Når kommer dere og måker?|Kristoffer
